@@ -1,0 +1,8 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+GetBookingIds Request,1,569,569,569,"0,00","0,000%","1,75747","5,18","0,24","3018,0"
+GetBookingByIds Request,1,143,143,143,"0,00","0,000%","6,99301","6,11","1,15","895,0"
+CreateBooking  Request,1,131,131,131,"0,00","0,000%","7,63359","7,07","3,50","948,0"
+UpdateBooking Request,1,132,132,132,"0,00","0,000%","7,57576","6,81","4,00","921,0"
+PartialUpdateBooking  Request,1,141,141,141,"0,00","0,000%","7,09220","6,37","3,75","920,0"
+DeleteBooking  Request,1,144,144,144,"0,00","0,000%","6,94444","5,11","3,68","753,0"
+TOTAL,6,210,131,569,"160,63","0,000%","4,75059","5,76","1,86","1242,5"
