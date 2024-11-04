@@ -14,4 +14,13 @@ The tests were carried out in 3 different iterations differing in the number of 
   
 Tests were performed using the JMeter tool
 
+**How to run tests**
+
+ Clone repository :
+ ``` git clone https://github.com/sehsune/Project_3-API-perfomance-tests-with-JMeter.git  ```
+
+- Install  JMeter from https://jmeter.apache.org/download_jmeter.cgi
+- Open JMeter
+- File > Open > Restful-booker perfomance test.jmx
+- Run the test plan by clicking on the "Start" button
 
