@@ -8,3 +8,5 @@ The tests were carried out in 3 different iterations differing in the number of 
 - 1000 users per 10s
   
 Tests were performed using the JMeter tool
+
+
