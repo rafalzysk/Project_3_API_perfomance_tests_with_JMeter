@@ -17,7 +17,7 @@ Tests were performed using the JMeter tool
 **How to run tests**
 
  Clone repository :
- ``` git clone https://github.com/sehsune/Project_3-API-perfomance-tests-with-JMeter.git  ```
+ ``` git clone https://github.com/rafalzysk/Project_3-API-perfomance-tests-with-JMeter.git  ```
 
 - Install  JMeter from https://jmeter.apache.org/download_jmeter.cgi
 - Open JMeter
