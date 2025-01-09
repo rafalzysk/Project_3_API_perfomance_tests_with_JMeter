@@ -1,4 +1,4 @@
-_# Project_3-API_perfomance_tests_with_JMeter
+# **Project_3_API_perfomance_tests_with_JMeter**
 
 This project aims to check the performance of individual [Restful-Booker](https://restful-booker.herokuapp.com/) endopoints according to [API documentation](https://restful-booker.herokuapp.com/apidoc/index.html)
 
